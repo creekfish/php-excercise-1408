@@ -1,0 +1,32 @@
+/vendor
+/workbench
+composer.phar
+
+# Numerous always-ignore extensions
+*.diff
+*.err
+*.orig
+*.log
+*.tmp
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+tmp
+logs
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+.idea
+
+_ide_helper*
+

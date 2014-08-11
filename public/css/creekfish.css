@@ -1,0 +1,20 @@
+.user-registration {
+    margin: 0 auto;
+    width:700px;
+}
+
+#result-callout {
+    display: none;
+    margin: 20px 0;
+    padding: 15px 30px 15px 15px;
+    background-color: #f0f7fd;
+    border-color: #d0e3f0;
+}
+
+#error-callout {
+    display: none;
+    margin: 20px 0;
+    padding: 15px 30px 15px 15px;
+    background-color: #fefbed;
+    border-color: #f1e7bc;
+}
